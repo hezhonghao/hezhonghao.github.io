@@ -123,6 +123,29 @@
       ]
     }
   ],
+  "awards": [
+    {
+      "time": "2022.08",
+      "award": "Open Philanthropy Graduate Scholarship",
+      "detail": [
+        "A full scholarship for the master of study in AI Ethics and Society in University of Cambridge"
+      ]
+    },
+    {
+      "time": "2023.01",
+      "award": "Manifund AI Research Scholarship",
+      "detail": [
+        "A research scholarship to support our work on neuroscience and mechanistic interpretability."
+      ]
+    },
+    {
+      "time": "2017,.02",
+      "award": "Hong Kong Cyberport Creative Micro Funding",
+      "detail": [
+        "An early-stage startup funding to support our work on Homeal, a sharing economy app about food and culture."
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Machematics",
