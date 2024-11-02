@@ -125,17 +125,21 @@
   ],
   "skills": [
     {
-      "name": "Research Skills",
-      "keywords": ["Qualitative/Quantitative research", "Data Analysis", "Machine Learning"]
+      "name": "Machematics",
+      "keywords": ["Calculus", "Information Theory"]
     },
     {      
     "name": "ML/AI",
-    "keywords": ["Qualitative/Quantitative research", "Data Analysis", "Machine Learning"]
+    "keywords": ["Convolution Neural Networks", "Transformers", "Autoencoders"]
 
     },
     {
+      "name": "Experimental",
+      "keywords": ["Data Visualization", "Mechanitic Interpretability"]
+    },
+    {
       "name": "Programming",
-      "keywords": ["Python (advanced)", "R (intermediary)", "Matlab (beginner)", "web stuff (intermediary)"]
+      "keywords": ["Python (advanced)", "R (intermediary)", "web stuff (intermediary)", "Matlab (basic)", "C/C++ (basic)"]
     }
   ],
   "languages": [
