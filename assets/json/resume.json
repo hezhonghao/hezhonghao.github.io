@@ -126,13 +126,16 @@
   "skills": [
     {
       "name": "Research Skills",
-      "level": "Advanced",
       "keywords": ["Qualitative/Quantitative research", "Data Analysis", "Machine Learning"]
+    },
+    {      
+    "name": "ML/AI",
+    "keywords": ["Qualitative/Quantitative research", "Data Analysis", "Machine Learning"]
+
     },
     {
       "name": "Programming",
-      "level": "Intermediate",
-      "keywords": ["Python", "R", "PyTorch"]
+      "keywords": ["Python (advanced)", "R (intermediary)", "Matlab (beginner)", "web stuff (intermediary)"]
     }
   ],
   "languages": [
