@@ -55,7 +55,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-
+  {% comment%}
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
@@ -63,7 +63,7 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
+  {% end comment%}
     <!-- Social -->
     {% if page.social %}
       <div class="social">
