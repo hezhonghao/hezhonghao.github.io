@@ -40,7 +40,7 @@ Here is [a list of research projects](https://docs.google.com/document/d/1lICZ5f
 
 ## Contacts
 
-I love free-flow research conversations! You may simply book a quick call via [Calendly](calendly.com/hezhonghao). (I blocked deep work, sleep, and private time, so don't worry!). You may drop me an email at zh378@cam.ac.uk
+I love free-flow research conversations! You may simply book a quick call via [Calendly](https://calendly.com/hezhonghao). (I blocked deep work, sleep, and private time, so don't worry!). You may drop me an email at zh378@cam.ac.uk
 
 
 
