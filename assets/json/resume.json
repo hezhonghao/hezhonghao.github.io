@@ -42,11 +42,7 @@
       "studyType": "Summer Student",
       "startDate": "2019-06-01",
       "endDate": "2019-09-01",
-      "courses": [
-        "Mathematics Foundation of Computing",
-        "Minds and Machines",
-        "Introduction to Neuroscience"
-      ]
+      "courses": ["Mathematics Foundation of Computing", "Minds and Machines", "Introduction to Neuroscience"]
     },
     {
       "institution": "Shantou University",
@@ -56,15 +52,8 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2014-08-01",
       "endDate": "2019-06-01",
-      "honors": [
-        "Stanford Global Leadership & Engagement Program Scholarship",
-        "Hong Kong Cyberport Creative Micro Funding $100,000"
-      ],
-      "courses": [
-        "Machine Learning and relevant maths",
-        "Research Methodology",
-        "Linguistics"
-      ]
+      "honors": ["Stanford Global Leadership & Engagement Program Scholarship", "Hong Kong Cyberport Creative Micro Funding $100,000"],
+      "courses": ["Machine Learning and relevant maths", "Research Methodology", "Linguistics"]
     }
   ],
   "projects": [
@@ -76,7 +65,7 @@
         "Focus: Leading research on cognitive science and neuroscience to address interpretability challenges in ML",
         "Goal: Publish in Nature/Nature Machine Intelligence",
         "Collaborators: Tianyi (Alex) Qiu, Zhaowei, Zhang"
-      ]      
+      ]
     },
     {
       "time": "2023.12 - Present",
@@ -96,7 +85,7 @@
         "Goal: A gateway survey paper for newcomers to understand alignment research",
         "Collaborators: Yaodong Yang, Jiaming Ji, Tianyi Qiu"
       ]
-    },    
+    },
     {
       "time": "2022.12 - 2023.3",
       "project": "Harms from agentic algorithmic systems",
@@ -117,33 +106,24 @@
     {
       "time": "2021.06 - 2022.02",
       "project": "Stanford Existential Risks Initiative (SERI)",
-      "detail": [
-        "Position: Research Fellow",
-        "Focus: Independent research on AI global governance"
-      ]
+      "detail": ["Position: Research Fellow", "Focus: Independent research on AI global governance"]
     }
   ],
   "awards": [
     {
       "time": "2022.08",
       "award": "Open Philanthropy Graduate Scholarship",
-      "detail": [
-        "A full scholarship for the master of study in AI Ethics and Society in University of Cambridge"
-      ]
+      "detail": ["A full scholarship for the master of study in AI Ethics and Society in University of Cambridge"]
     },
     {
       "time": "2023.01",
       "award": "Manifund AI Research Scholarship",
-      "detail": [
-        "A research scholarship to support our work on neuroscience and mechanistic interpretability."
-      ]
+      "detail": ["A research scholarship to support our work on neuroscience and mechanistic interpretability."]
     },
     {
       "time": "2017,.02",
       "award": "Hong Kong Cyberport Creative Micro Funding",
-      "detail": [
-        "An early-stage startup funding to support our work on Homeal, a sharing economy app about food and culture."
-      ]
+      "detail": ["An early-stage startup funding to support our work on Homeal, a sharing economy app about food and culture."]
     }
   ],
   "skills": [
@@ -151,10 +131,9 @@
       "name": "Machematics",
       "keywords": ["Calculus", "Information Theory"]
     },
-    {      
-    "name": "ML/AI",
-    "keywords": ["Convolution Neural Networks", "Transformers", "Autoencoders"]
-
+    {
+      "name": "ML/AI",
+      "keywords": ["Convolution Neural Networks", "Transformers", "Autoencoders"]
     },
     {
       "name": "Experimental",
@@ -187,4 +166,4 @@
       "keywords": ["Debate", "Effective Altruism"]
     }
   ]
-}  
+}
