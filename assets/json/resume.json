@@ -157,11 +157,11 @@
   "interests": [
     {
       "name": "Physical Activities",
-      "keywords": ["Rowing", "Hiking", "Bodybuilding"]
+      "keywords": ["Rowing", "Hiking"]
     },
     {
       "name": "Other Interests",
-      "keywords": ["Debate", "Effective Altruism"]
+      "keywords": "Debate"
     }
   ]
 }
