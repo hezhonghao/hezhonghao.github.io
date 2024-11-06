@@ -24,8 +24,7 @@ layout: default
           {% else %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% endif %}
-          {% capture sizes %}"(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
-      30vw, 95vw"{% endcapture %}
+          {% capture sizes %}"(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)30vw, 95vw"{% endcapture %}
           {%
             include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
             cache_bust=true
@@ -46,7 +45,7 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-    {% end comment %}
+    {% endcomment %}
     {% comment %}
     Latest posts
     {% if site.latest_posts.enabled %}
@@ -55,7 +54,7 @@ layout: default
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
-    {% end comment %}
+    {% endcomment %}
     {% comment %}
     Selected papers
     {% if page.selected_papers %}
@@ -64,7 +63,7 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-    {% end comment %}
+    {% endcomment %}
     <!-- Social -->
     {% if page.social %}
       <div class="social">
