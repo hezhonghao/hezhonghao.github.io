@@ -58,72 +58,80 @@
   ],
   "projects": [
     {
-      "time": "2024.10 - Present",
-      "project": "LLM's influence on epistemic diversity and values",
-      "detail": [
+      "startDate": "2024-10",
+      "endDate": "Present",
+      "name": "LLM's influence on epistemic diversity and values",
+      "url": "",  
+      "summary": "Leading research on cognitive science and neuroscience to address interpretability challenges in ML.",
+      "highlights": [
         "Position: Project Co-lead",
-        "Focus: Leading research on cognitive science and neuroscience to address interpretability challenges in ML",
-        "Goal: Publish in Nature/Nature Machine Intelligence",
-        "Collaborators: Tianyi (Alex) Qiu, Zhaowei, Zhang"
+        "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Zhaowei, Zhang"
       ]
     },
     {
-      "time": "2023.12 - Present",
-      "project": "Multilevel analytical framework for interpretability",
-      "detail": [
+      "startDate": "2023-12",
+      "endDate": "Present",
+      "name": "Multilevel analytical framework for interpretability",
+      "url": "https://arxiv.org/abs/2408.12664v2", 
+      "summary": "Research on cognitive science and neuroscience to address interpretability challenges in ML.",
+      "highlights": [
         "Position: Project Lead",
-        "Focus: Leading research on cognitive science and neuroscience to address interpretability challenges in ML",
-        "Goal: A publication on Transactional Machine Learning Research to bridge neuroscience and mech intero communities",
+        "Goal: Publication in Transactional Machine Learning Research",
         "Senior authors: Adrian Weller, Grace W. Lindsay"
       ]
     },
     {
-      "time": "2023.7 - 2023.10",
-      "project": "Comprehensive Survey on AI Alignment",
-      "detail": [
-        "Focus: Leading research on cognitive science and neuroscience to address interpretability challenges in ML",
-        "Goal: A gateway survey paper for newcomers to understand alignment research",
+      "startDate": "2023-07",
+      "endDate": "2023-10",
+      "name": "Comprehensive Survey on AI Alignment",
+      "url": "https://alignmentsurvey.com/", 
+      "summary": "Survey paper on alignment research for newcomers.",
+      "highlights": [
+        "Focus: Interpretability challenges in ML",
         "Collaborators: Yaodong Yang, Jiaming Ji, Tianyi Qiu"
       ]
     },
     {
-      "time": "2022.12 - 2023.3",
-      "project": "Harms from agentic algorithmic systems",
-      "detail": [
-        "Focus: Researching safety and harms from agentic systems in AI",
-        "Highlight: Published paper 'Harms from Increasingly Agentic Algorithmic Systems', cited by GPT-4 and high-profile AI safety reports (accepted by ACM FAccT)"
+      "startDate": "2022-12",
+      "endDate": "2023-03",
+      "name": "Harms from agentic algorithmic systems",
+      "url": "https://arxiv.org/abs/2302.10329", 
+      "summary": "Research on safety and harms from agentic systems in AI.",
+      "highlights": [
+        "Highlight: Published paper cited by GPT-4 and high-profile AI safety reports"
       ]
     },
     {
-      "time": "2023.06 - 2023.07",
-      "project": "AI Regulation Frameworks",
-      "detail": [
-        "Position: Research Assistant at Center for AI Safety",
-        "Focus: Contributed to policy research for CAIS",
-        "Highlight: 'A REGULATORY FRAMEWORK FOR ADVANCED ARTIFICIAL INTELLIGENCE' and AI policy one-pagers"
+      "startDate": "2021-06",
+      "endDate": "2022-02",
+      "name": "Stanford Existential Risks Initiative (SERI)",
+      "url": "https://seri.stanford.edu/resources/courses/seri-fellowship/summer-2021-undergraduate-research-fellowship-featured-projects", 
+      "summary": "Research on China's AI global approach.",
+      "highlights": [
+        "Position: Research Fellow"
       ]
-    },
-    {
-      "time": "2021.06 - 2022.02",
-      "project": "Stanford Existential Risks Initiative (SERI)",
-      "detail": ["Position: Research Fellow", "Focus: Independent research on AI global governance"]
     }
-  ],
+  ],  
   "awards": [
     {
-      "time": "2022.08",
-      "award": "Open Philanthropy Graduate Scholarship",
-      "detail": ["A full scholarship for the master of study in AI Ethics and Society in University of Cambridge"]
+      "date": "2022-08",
+      "title": "Open Philanthropy Graduate Scholarship",
+      "awarder": "Open Philanthropy",
+      "summary": "A full scholarship for the master of study in AI Ethics and Society at the University of Cambridge."
     },
     {
-      "time": "2023.01",
-      "award": "Manifund AI Research Scholarship",
-      "detail": ["A research scholarship to support our work on neuroscience and mechanistic interpretability."]
+      "date": "2023-01",
+      "title": "Manifund AI Research Scholarship",
+      "url": "https://manifund.org/projects/mapping-neuroscience-and-mechanistic-interpretability-?tab=donations",  
+      "awarder": "Manifund",
+      "summary": "A research scholarship to support work on neuroscience and mechanistic interpretability."
     },
     {
-      "time": "2017,.02",
-      "award": "Hong Kong Cyberport Creative Micro Funding",
-      "detail": ["An early-stage startup funding to support our work on Homeal, a sharing economy app about food and culture."]
+      "date": "2017-02",
+      "title": "Hong Kong Cyberport Creative Micro Funding",
+      "url": "https://www.cyberport.hk/files/597951a9ed60c582280509/Cyberport%20Guangdong%20%E2%80%93%20Hong%20Kong%20Young%20Entrepreneur%20Programme%202016%20result_EN_v2.pdf", 
+      "awarder": "Hong Kong Cyberport Management Company Limited, wholly owned by the Hong Kong SAR Government",
+      "summary": "Early-stage startup funding to support work on Homeal, a sharing economy app about food and culture."
     }
   ],
   "skills": [
