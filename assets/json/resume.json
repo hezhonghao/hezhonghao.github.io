@@ -61,18 +61,15 @@
       "startDate": "2024-10",
       "endDate": "Present",
       "name": "LLM's influence on epistemic diversity and values",
-      "url": "",  
+      "url": "",
       "summary": "Leading research on cognitive science and neuroscience to address interpretability challenges in ML.",
-      "highlights": [
-        "Position: Project Co-lead",
-        "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Zhaowei, Zhang"
-      ]
+      "highlights": ["Position: Project Co-lead", "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Zhaowei, Zhang"]
     },
     {
       "startDate": "2023-12",
       "endDate": "Present",
       "name": "Multilevel analytical framework for interpretability",
-      "url": "https://arxiv.org/abs/2408.12664v2", 
+      "url": "https://arxiv.org/abs/2408.12664v2",
       "summary": "Research on cognitive science and neuroscience to address interpretability challenges in ML.",
       "highlights": [
         "Position: Project Lead",
@@ -84,34 +81,27 @@
       "startDate": "2023-07",
       "endDate": "2023-10",
       "name": "Comprehensive Survey on AI Alignment",
-      "url": "https://alignmentsurvey.com/", 
+      "url": "https://alignmentsurvey.com/",
       "summary": "Survey paper on alignment research for newcomers.",
-      "highlights": [
-        "Focus: Interpretability challenges in ML",
-        "Collaborators: Yaodong Yang, Jiaming Ji, Tianyi Qiu"
-      ]
+      "highlights": ["Focus: Interpretability challenges in ML", "Collaborators: Yaodong Yang, Jiaming Ji, Tianyi Qiu"]
     },
     {
       "startDate": "2022-12",
       "endDate": "2023-03",
       "name": "Harms from agentic algorithmic systems",
-      "url": "https://arxiv.org/abs/2302.10329", 
+      "url": "https://arxiv.org/abs/2302.10329",
       "summary": "Research on safety and harms from agentic systems in AI.",
-      "highlights": [
-        "Highlight: Published paper cited by GPT-4 and high-profile AI safety reports"
-      ]
+      "highlights": ["Highlight: Published paper cited by GPT-4 and high-profile AI safety reports"]
     },
     {
       "startDate": "2021-06",
       "endDate": "2022-02",
       "name": "Stanford Existential Risks Initiative (SERI)",
-      "url": "https://seri.stanford.edu/resources/courses/seri-fellowship/summer-2021-undergraduate-research-fellowship-featured-projects", 
+      "url": "https://seri.stanford.edu/resources/courses/seri-fellowship/summer-2021-undergraduate-research-fellowship-featured-projects",
       "summary": "Research on China's AI global approach.",
-      "highlights": [
-        "Position: Research Fellow"
-      ]
+      "highlights": ["Position: Research Fellow"]
     }
-  ],  
+  ],
   "awards": [
     {
       "date": "2022-08",
@@ -122,14 +112,14 @@
     {
       "date": "2023-01",
       "title": "Manifund AI Research Scholarship",
-      "url": "https://manifund.org/projects/mapping-neuroscience-and-mechanistic-interpretability-?tab=donations",  
+      "url": "https://manifund.org/projects/mapping-neuroscience-and-mechanistic-interpretability-?tab=donations",
       "awarder": "Manifund",
       "summary": "A research scholarship to support work on neuroscience and mechanistic interpretability."
     },
     {
       "date": "2017-02",
       "title": "Hong Kong Cyberport Creative Micro Funding",
-      "url": "https://www.cyberport.hk/files/597951a9ed60c582280509/Cyberport%20Guangdong%20%E2%80%93%20Hong%20Kong%20Young%20Entrepreneur%20Programme%202016%20result_EN_v2.pdf", 
+      "url": "https://www.cyberport.hk/files/597951a9ed60c582280509/Cyberport%20Guangdong%20%E2%80%93%20Hong%20Kong%20Young%20Entrepreneur%20Programme%202016%20result_EN_v2.pdf",
       "awarder": "Hong Kong Cyberport Management Company Limited, wholly owned by the Hong Kong SAR Government",
       "summary": "Early-stage startup funding to support work on Homeal, a sharing economy app about food and culture."
     }
