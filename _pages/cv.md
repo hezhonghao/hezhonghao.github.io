@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: You can download a PDF version. Although the cv is more updated on this website. 
+description: You can download a PDF version. Although the cv is more updated on this website. I intend to disclose the whole journey of mine here, however it may look winding and strange to others. I want to build, one stone a time, and one item in this page. In the end it's life worth living. 
 toc:
   sidebar: left
 ---
