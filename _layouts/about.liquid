@@ -39,7 +39,7 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
     {% comment %}
-    <!-- News -->
+    News
     {% if page.news and site.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
@@ -48,7 +48,7 @@ layout: default
     {% endif %}
     {% end comment %}
     {% comment %}
-    <!-- Latest posts -->
+    Latest posts
     {% if site.latest_posts.enabled %}
       <h2>
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
@@ -57,7 +57,7 @@ layout: default
     {% endif %}
     {% end comment %}
     {% comment %}
-    <!-- Selected papers -->
+    Selected papers
     {% if page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
