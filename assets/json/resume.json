@@ -61,9 +61,9 @@
       "startDate": "2024-10",
       "endDate": "Present",
       "name": "LLM's influence on epistemic diversity and values",
-      "url": "",
-      "summary": "Leading research on cognitive science and neuroscience to address interpretability challenges in ML.",
-      "highlights": ["Position: Project Co-lead", "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Zhaowei, Zhang"]
+      "url": "https://docs.google.com/document/d/19HxnSQtftkFguxnlbUk2h4-BTgXdt02hHXJFnSyCIUA/edit?tab=t.0#heading=h.obviu1nlvltd",
+      "summary": "We are concerned with the problems of LLM-incured value lock-in, knowledge collapse, value collapse (as probable as model collapse since increasingly our discourses are mediated by AI systems and iterative training becomes more prevalence), with the consequence being more destructive. We created a team to build empirical demonstration, human subject experiments, simulation and interventions to address this set of problems we call 'AI influence'. ",
+      "highlights": ["Position: Project Co-founder", "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Tejasveer Chugh"]
     },
     {
       "startDate": "2023-12",
