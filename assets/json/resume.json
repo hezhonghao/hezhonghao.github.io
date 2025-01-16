@@ -58,12 +58,20 @@
   ],
   "projects": [
     {
+      "startDate": "2025-01",
+      "endDate": "Present",
+      "name": "Algorithms that Assist Truth Seeking and Prevent Lock-in",
+      "url": "https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#bookmark=id.5fxoxdo65tzy",
+      "summary": "We have the following proposal for algorithm designs that remove the feedback loop dynamics between human users and AI. We hypothesize that they could address the risk of value lock-in from its root. First, we use helping (one/a group of) humans seek truth as RLHF training objective, not receiving human thumbs-up. This involves either human-in-the-loop training, or a human proxy model that serves as a simulated human partner for the model under training. Second, we use human opinion change data (e.g. those from debating websites) as ground truth in RLHF (changing opinion from X to Y is evidence that Y is more desirable than X), not human preference comparison. There are reasons to believe that the former more robustly points toward truth - i.e. at any given point in time people could be utterly mistaken, but overall, they get wiser over time.",
+      "highlights": ["Position: Project Co-founder", "Collaborators: Prof Andreea Bobu (MIT), Tianyi (Alex) Qiu (CHAI, Berkely & PKU"]
+    },
+    {
       "startDate": "2024-10",
       "endDate": "Present",
-      "name": "LLM's influence on epistemic diversity and values",
-      "url": "https://docs.google.com/document/d/19HxnSQtftkFguxnlbUk2h4-BTgXdt02hHXJFnSyCIUA/edit?tab=t.0#heading=h.obviu1nlvltd",
-      "summary": "We are concerned with the problems of LLM-incured value lock-in, knowledge collapse, value collapse (as probable as model collapse since increasingly our discourses are mediated by AI systems and iterative training becomes more prevalence), with the consequence being more destructive. We created a team to build empirical demonstration, human subject experiments, simulation and interventions to address this set of problems we call 'AI influence'. ",
-      "highlights": ["Position: Project Co-founder", "Collaborators: Max Kleiman-Weiner, Tianyi (Alex) Qiu, Tejasveer Chugh"]
+      "name": "Toy Model of LLM-incurred Knowleged and Values Lock-in",
+      "url": "https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#heading=h.ygsa4uyidb9m",
+      "summary": "We are concerned with the problems of LLM-incured value lock-in and knowledge collapse (as probable as model collapse since increasingly our discourses are mediated by AI systems and iterative training becomes more prevalence), with the consequence being more destructive. Our team is working on toy model demonstration of the mechanisms of LLM-incurred value lock-in, as long as establishing real-world evidence of lock-in from human-AI interactions.",
+      "highlights": ["Position: Project Co-founder", "Collaborators: Prof Max Kleiman-Weiner (UW), Tianyi (Alex) Qiu (CHAI, Berkely & PKU"]
     },
     {
       "startDate": "2023-12",
