@@ -106,7 +106,7 @@
       "endDate": "2022-02",
       "name": "Stanford Existential Risks Initiative (SERI)",
       "url": "https://seri.stanford.edu/resources/courses/seri-fellowship/summer-2021-undergraduate-research-fellowship-featured-projects",
-      "summary": "Research on China's AI global approach.",
+      "summary": "Research on China's AI governance approach.",
       "highlights": ["Position: Research Fellow"]
     }
   ],
@@ -134,8 +134,8 @@
   ],
   "skills": [
     {
-      "name": "Machematics",
-      "keywords": ["Calculus", "Information Theory"]
+      "name": "Mathematics",
+      "keywords": ["Calculus", "Information Theory", "Linear Algebra"]
     },
     {
       "name": "ML/AI",
@@ -143,7 +143,7 @@
     },
     {
       "name": "Experimental",
-      "keywords": ["Data Visualization", "Mechanitic Interpretability"]
+      "keywords": ["Data Visualization", "Mechanistic Interpretability"]
     },
     {
       "name": "Programming",
@@ -169,7 +169,7 @@
     },
     {
       "name": "Other Interests",
-      "keywords": "Debate"
+      "keywords": ["Debate", "Greek Literature"]
     }
   ]
 }
