@@ -4,7 +4,7 @@
     "label": "AI Alignment and Human-AI Interaction Researcher",
     "image": "",
     "Affiliation": "Leverhulme Center for Future Intelligence, University of Cambridge",
-    "summary": "I build aligned and ethical LLMs for the benefits of many. I also build my skills to work on HCI, AI for science, interpretability."
+    "summary": "I am creating AI-assistants for human moral progress and preventing LLM-induced lock-in."
   },
   "education": [
     {
@@ -15,7 +15,7 @@
       "studyType": "Master",
       "startDate": "2022-09-01",
       "endDate": "PRESENT",
-      "Advisors": "John Burden, Henry Shevlin",
+      "Advisors": "Henry Shevlin",
       "courses": [
         "Machine Learning Alignment Bootcamp",
         "AI Ethics",
@@ -141,7 +141,7 @@
     },
     {
       "name": "Experimental",
-      "keywords": ["Data Visualization", "Mechanistic Interpretability"]
+      "keywords": ["Data Visualization", "Mechanistic Interpretability", "Simulation"]
     },
     {
       "name": "Programming",
