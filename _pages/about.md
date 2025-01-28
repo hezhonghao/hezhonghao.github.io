@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, and human-AI interaction research, with a focus on creating AI-assistants for human moral progress and preventing LLM-induced lock-in. I will be graduating in 2025 and I am seeking PhD positions!
+Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating AI-assistants for human moral & cultural progress and preventing LLM-induced lock-in. I will be graduating in 2025 and I am seeking PhD positions!
 
 ## Research
 
