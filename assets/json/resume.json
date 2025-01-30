@@ -141,7 +141,7 @@
   "skills": [
     {
       "name": "Mathematics",
-      "keywords": ["Calculus", "Information Theory", "Linear Algebra"]
+      "keywords": ["Calculus", "Information Theory", "Linear Algebra", "Formal Methods"]
     },
     {
       "name": "ML/AI",
@@ -159,7 +159,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Close to Native",
       "icon": ""
     },
     {
@@ -167,6 +167,11 @@
       "fluency": "Native",
       "icon": ""
     }
+    {
+      "language": "French",
+      "fluency": "Basic",
+      "icon": ""
+    }    
   ],
   "interests": [
     {
