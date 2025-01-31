@@ -65,23 +65,23 @@
     },
     {
       "startDate": "2024-10",
-      "endDate": "Present",
-      "name": "The Lock-in Hypothesis: Possibility of Stagnation by Algorithms",
+      "endDate": "2025-01",
+      "name": "The Lock-in Hypothesis: Stagnation by Algorithms",
       "url": "https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#heading=h.ygsa4uyidb9m",
       "summary": "We are concerned with the problems of LLM-incured value lock-in and knowledge collapse (as probable as model collapse since increasingly our discourses are mediated by AI systems and iterative training becomes more prevalence), with the consequence being more destructive. Our team is working on toy model demonstration of the mechanisms of LLM-incurred value lock-in, as long as establishing real-world evidence of lock-in from human-AI interactions.",
       "highlights": ["Position: Project Co-founder", "Collaborators: Prof Max Kleiman-Weiner (UW), Tianyi (Alex) Qiu (CHAI, Berkely & PKU"]
     },
     {
       "startDate": "2024-10",
-      "endDate": "Present",
-      "name": "Position: The Imperative of Examining AI’s Influence as \"Shadow Authors\"",
+      "endDate": "2025-01",
+      "name": "Position: AI Systematically Rewires the Flow of Ideas",
       "url": "https://docs.google.com/document/d/1HQE_MQZzHXWf04xmn0N38DQZXu3nUZaufqpGGDx_LJQ/edit?usp=sharing",
       "summary": "We propose \"AI influence \" as a field of studies on AI's impact on epistemics and morality. Early algorithmic interventions and data curation practices will remove mechanisms (such as dual influence) leading to systematic negative impact on human knowledge and values.",
       "highlights": ["Position: Project Co-founder", "Collaborators: Prof Max Kleiman-Weiner (UW), Tianyi (Alex) Qiu (CHAI, Berkely & PKU, Prof Atoosa Kasirzadeh, Prof John P Wihbey, Dr Moshe Glickman, Tao Lin."]
     },
     {
       "startDate": "2023-12",
-      "endDate": "Present",
+      "endDate": "2025-02",
       "name": "Multilevel analytical framework for interpretability",
       "url": "https://arxiv.org/abs/2408.12664v2",
       "summary": "Research on cognitive science and neuroscience to address interpretability challenges in ML.",

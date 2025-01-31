@@ -25,8 +25,8 @@ You may read my published work on [Google Scholar](https://scholar.google.com/ci
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
-- Will we be experiencing an LLM-induced value lock-in? If so, how do we prevent it from happenning ([two papers aiming for ICML 2025](https://docs.google.com/document/d/19HxnSQtftkFguxnlbUk2h4-BTgXdt02hHXJFnSyCIUA/edit?tab=t.0#heading=h.obviu1nlvltd))
-- Can we train LLM to uplift humans by using truth-seeking as underlying objective, opinion-change data as ground truth for RLHF, and explictly evaluting AI-assisted human performance  ([an algorithmic paper aiming for NeurIPS 2025](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#bookmark=id.5fxoxdo65tzy))?
+- Will we be experiencing an LLM-induced value lock-in? If so, how do we prevent it from happenning ([Two Papers Under Review](https://docs.google.com/document/d/19HxnSQtftkFguxnlbUk2h4-BTgXdt02hHXJFnSyCIUA/edit?tab=t.0#heading=h.obviu1nlvltd))
+- Can we train LLM to uplift humans by using truth-seeking as underlying objective, opinion-change data as ground truth for RLHF, and explictly evaluting AI-assisted human performance  ([An Algorithmic Paper Aiming For NeurIPS 2025](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#bookmark=id.5fxoxdo65tzy))?
 
 I strive to become a "full stack researcher," which, in my definition, is to have technical sophistication (experiments, mathematical formulation, and engineering) and deep engagements with problems (technical and societal ones). Building technologies for human betterment is hard, and let's get this one right.
 
