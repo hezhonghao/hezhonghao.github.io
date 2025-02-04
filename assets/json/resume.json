@@ -17,17 +17,14 @@
       "endDate": "PRESENT",
       "Advisors": "Henry Shevlin",
       "courses": [
-        "Machine Learning Alignment Bootcamp",
+        "Machine Learning Alignment",
         "AI Ethics",
         "AI Governance",
-        "History of AI",
         "CS230 Deep Learning",
-        "Mathematics for Computer Science",
         "ML Safety",
         "Discrete Mathematics",
         "CS234 Reinforcement Learning",
         "CS109 Probability for Computer Scientists",
-        "CS106 Programming Methodology",
         "Mechanistic Interpretability",
         "Algorithms and Data Structure"
       ]
@@ -91,7 +88,7 @@
       "highlights": [
         "Position: Project Lead",
         "Goal: Publication in Transactional Machine Learning Research",
-        "Senior authors: Adrian Weller, Grace W. Lindsay"
+        "Senior authors: Grace W. Lindsay(NYU), Prof Anna Ivanova (GeorgiaTech)"
       ]
     },
     {
