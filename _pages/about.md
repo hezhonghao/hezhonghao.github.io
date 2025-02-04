@@ -36,4 +36,4 @@ A lot of effort is required to operationalize those concepts, but currently I am
 
 ## Contacts
 
-You may simply book a quick call via [Calendly](https://calendly.com/hezhonghao). You may drop me an email at hezhonghao2030@gmail.com
+You may simply book a quick call via [Calendly](https://calendly.com/hezhonghao) <!---You may drop me an email at hezhonghao2030@gmail.com--->
