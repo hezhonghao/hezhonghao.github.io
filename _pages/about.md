@@ -30,7 +30,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 I strive to become a "full stack researcher," which, in my definition, is to have technical sophistication (experiments, mathematical formulation, and engineering) and deep engagements with problems (technical and societal ones). Building technologies for human betterment is hard, and let's get this one right.
 
-Ultimately, I want to build AIs for human excellence (or "arete", in Greek conception), which requires both sound societal mechanism design and epistemic tools with which individuals can better exercise their agency.
+Ultimately, I want to build AIs for human excellence (or "arete", in Greek conception) and moral progress, which requires both sound societal mechanism design and epistemic tools with which individuals can better exercise their agency.
 
 A lot of effort is required to operationalize those concepts, but currently I am actively exploring the following topics: mechanistic interpretability, computational neuroscience, AI ethics, alignment, political philosophy, virtue ethics, multi-agent systems, AI for science, and human-computer interface, and collective intelligence.
 
