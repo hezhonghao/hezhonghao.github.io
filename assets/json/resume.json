@@ -144,8 +144,8 @@
       "keywords": ["Calculus", "Information Theory", "Linear Algebra", "Formal Methods"]
     },
     {
-      "name": "ML/AI",
-      "keywords": ["Convolution Neural Networks", "Transformers", "Autoencoders"]
+      "name": "ML Engineering",
+      "keywords": ["Machine Learning", "Deep Learning", "Data Analysis", "ML Safety", "Git"]
     },
     {
       "name": "Experimental",
@@ -153,7 +153,7 @@
     },
     {
       "name": "Programming",
-      "keywords": ["Python (advanced)", "R (intermediary)", "web stuff (intermediary)", "Matlab (basic)", "C/C++ (basic)"]
+      "keywords": ["Python (advanced)", "Pytorch", "R (intermediary)", "web stuff (intermediary)", "Matlab (basic)", "C/C++ (basic)"]
     }
   ],
   "languages": [
