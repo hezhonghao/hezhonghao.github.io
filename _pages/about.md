@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating AI-assistants for human moral & cultural progress and preventing LLM-induced lock-in. I will be graduating in 2025 and I am seeking PhD positions!
+Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating truth-seeking AI, improving collective epistemic environment, and facilitating moral progress. My previous work got accepted by ICML, AIES, ICLR (workshop). I am graduating in this year and I will be seeking PhD positions!
 
 ## Research
 
@@ -25,8 +25,8 @@ You may read my published work on [Google Scholar](https://scholar.google.com/ci
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
-- Will we be experiencing an LLM-induced value lock-in? (See this [manuscript](https://tinyurl.com/lockinhypothesis) for a technical paper we propose "the lock-in" hypothesis, where we study lock-in with data analysis, simulations, and formal modeling.)
-- Can we train LLM to uplift humans by using truth-seeking as underlying objective, opinion-change data as ground truth for RLHF, and explictly evaluting AI-assisted human performance ([An Algorithmic Paper Aiming For NeurIPS 2025](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#heading=h.570sa3ncv5hw))?
+- Will humanity experience an LLM-induced lock-in because of the feedback loops between humans and LLMs? (Accpted by ICML; [Read The Lock-in Hypothesis](https://thelockinhypothesis.com))
+- Can we train truth-seeking AI when agentic AI starts to mediate almost all our information intakes? (A benchmark paper under review; [Read a manuscript here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.0#heading=h.570sa3ncv5hw))
 
 I strive to become a "full stack researcher," which, in my definition, is to have technical sophistication (experiments, mathematical formulation, and engineering) and deep engagements with problems (technical and societal ones). Building technologies for human betterment is hard, and let's get this one right.
 
