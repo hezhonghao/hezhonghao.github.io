@@ -21,7 +21,7 @@ Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI al
 
 ## Research
 
-You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao). My ongoing and past projects are more updated in the [CV](https://hezhonghao.github.io/cv/#projects-1) page of this site.
+You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao). My ongoing and past projects are more updated in the [CV](https://hezhonghao.github.io/cv/#projects-1) page on this site.
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
