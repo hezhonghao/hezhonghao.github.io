@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating truth-seeking AI, improving collective epistemic environment, and facilitating moral progress. My previous work got accepted by ICML, AIES, ICLR (workshop). I am graduating in this year and I will be seeking PhD positions!
+Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating truth-seeking AI, improving collective epistemic environment, and facilitating moral progress. My previous work got accepted by ICML, AIES, ICLR (workshop). I am graduating this year and I will be seeking PhD positions!
 
 ## Research
 
