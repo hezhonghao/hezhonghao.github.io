@@ -58,7 +58,10 @@
       "name": "Stay True to the Evidence:Measuring Belief Entrenchment in LLM Reasoning via the Martingale Score",
       "url": "https://drive.google.com/file/d/1Wl25FB88BeyRpU470IBU3e606i-ZlLYC/view?usp=sharing",
       "summary": "We propose an alternative to RLHF that uses \" helping humans to seek truth as training objective \" and human opinion change data as ground truth. By doing so we aim to remove feedback loop-incurred lock-in from its root and revolves alignment evaluation around \" LLM-assited human performanceWe \".",
-      "highlights": ["Position: Project Co-founder", "Collaborators: Prof Maarten Sap (CMU), Prof Hirokazu Shirado, Tianyi (Alex) Qiu (CHAI, Berkley & PKU"]
+      "highlights": [
+        "Position: Project Co-founder",
+        "Collaborators: Prof Maarten Sap (CMU), Prof Hirokazu Shirado, Tianyi (Alex) Qiu (CHAI, Berkley & PKU"
+      ]
     },
     {
       "startDate": "2024-10",
@@ -85,10 +88,7 @@
       "name": "Position: AI Presents Catastrophic Epistemic Risks",
       "url": "https://docs.google.com/document/d/1gczIOi5tG-6x6HKMtShd7eUAW6Znh7fbKvI9n1oCt6M/edit?usp=sharing",
       "summary": "We argue that AI presents catastrophic epistemic risks, which deserves a closer look and more research attention to.",
-      "highlights": [
-        "Position: Co-author",
-        "Collaborators: Kellin Pelrine, Dan Zhao, Tianyi (Alex) Qiu"
-      ]
+      "highlights": ["Position: Co-author", "Collaborators: Kellin Pelrine, Dan Zhao, Tianyi (Alex) Qiu"]
     },
     {
       "startDate": "2023-12",
