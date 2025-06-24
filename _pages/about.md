@@ -16,8 +16,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Hi! I am Zhonghao, a master's student at the University of Cambridge. I do AI alignment, interpretability, human-AI interaction, and machine ethics research, with a focus on creating truth-seeking AI, improving collective epistemic environment, and facilitating moral progress. My previous work got accepted by ICML, AIES, ICLR (workshop). I am graduating in this year and I will be seeking PhD positions!
+Hi! I am Zhonghao, a master's student at the University of Cambridge. I work on AI alignment, interpretability, and human-AI interaction research. My previous work got accepted by ICML, ACM FAccT, and ICLR (workshop). My major interests are to design machines that help humans learn, think, and deliberate. Currently I focus on two things, to develop truth-seeking AI (Bayesian \& exploring truth), and to solve ``positive feedback loop'' problems in tech products: LLM sycophancy, confirmation bias in reasoning models, social media echo chamber, and polarization.  I am graduating in this year and I will be seeking PhD positions! 
 
 ## Research
 
