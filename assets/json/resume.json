@@ -19,7 +19,6 @@
       "courses": [
         "Machine Learning Alignment",
         "AI Ethics",
-        "AI Governance",
         "Advanced Deep Learning",
         "ML Safety",
         "Discrete Mathematics",
@@ -47,8 +46,8 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2014-08-01",
       "endDate": "2019-06-01",
-      "honors": ["Stanford Global Leadership & Engagement Program Scholarship", "Hong Kong Government Cyberport Creative Micro Funding $100,000"],
-      "courses": ["Machine Learning and relevant maths", "Research Methodology", "Linguistics"]
+      "honors": ["Hong Kong Government Cyberport Creative Micro Funding $100,000"],
+      "courses": ["Machine Learning and relevant maths", "Linguistics"]
     }
   ],
   "projects": [
