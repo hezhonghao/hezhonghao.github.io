@@ -57,9 +57,7 @@
       "name": "Use RL to infer human goals and levels of comprehension ",
       "url": "https://tinyurl.com/projectprevail",
       "summary": "Exploring one aspect of truth-seeking: 'exploration' in human-AI systems'.",
-      "highlights": [
-        "Position: Co-lead", 
-        "Collaborators: Prof Andreea Bobu (MIT), Tianyi (Alex) Qiu (CHAI, Berkley & PKU)"]
+      "highlights": ["Position: Co-lead", "Collaborators: Prof Andreea Bobu (MIT), Tianyi (Alex) Qiu (CHAI, Berkley & PKU)"]
     },
     {
       "startDate": "2025-03",
@@ -78,10 +76,7 @@
       "name": "The Lock-in Hypothesis: Stagnation by Algorithms",
       "url": "https://thelockinhypothesis.com/",
       "summary": "We are concerned with the problems of LLM-incured value lock-in and knowledge collapse (as probable as model collapse since increasingly our discourses are mediated by AI systems and iterative training becomes more prevalence), with the consequence being more destructive. Our team establishes real-world evdience of lock-in from WildChat data and builds simulations and formal modeling of the mechanisms of LLM-incurred value lock-in",
-      "highlights": [
-        "Position: Project Co-lead", 
-        "Collaborators: Prof Max Kleiman-Weiner (UW), Tianyi (Alex) Qiu (CHAI, Berkley & PKU)"
-      ]
+      "highlights": ["Position: Project Co-lead", "Collaborators: Prof Max Kleiman-Weiner (UW), Tianyi (Alex) Qiu (CHAI, Berkley & PKU)"]
     },
     {
       "startDate": "2024-10",
@@ -101,10 +96,7 @@
       "name": "Position: AI Presents Catastrophic Epistemic Risks",
       "url": "https://docs.google.com/document/d/1gczIOi5tG-6x6HKMtShd7eUAW6Znh7fbKvI9n1oCt6M/edit?usp=sharing",
       "summary": "We argue that AI presents catastrophic epistemic risks, which deserves a closer look and more research attention to.",
-      "highlights": [
-        "Position: Co-author", 
-        "Collaborators: Kellin Pelrine, Dan Zhao, Tianyi (Alex) Qiu"
-      ]
+      "highlights": ["Position: Co-author", "Collaborators: Kellin Pelrine, Dan Zhao, Tianyi (Alex) Qiu"]
     },
     {
       "startDate": "2023-12",

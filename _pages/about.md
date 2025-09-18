@@ -16,13 +16,14 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I am Zhonghao (何忠豪), a master's student at the University of Cambridge. I work on AI alignment, interpretability, and human-AI interaction research. 
 
-My previous work got accepted by NeurIPS, ICML, ACM FAccT, and ICLR (workshop), etc. My major interests are to design machines that help humans learn, think, and deliberate. Currently I focus on two things, to develop truth-seeking AI (Bayesian & exploring truth), and to solve "positive feedback loop" problems in tech products: LLM sycophancy, confirmation bias in reasoning models, social media echo chamber, and polarization. 
+Hi! I am Zhonghao (何忠豪), a master's student at the University of Cambridge. I work on AI alignment, interpretability, and human-AI interaction research.
+
+My previous work got accepted by NeurIPS, ICML, ACM FAccT, and ICLR (workshop), etc. My major interests are to design machines that help humans learn, think, and deliberate. Currently I focus on two things, to develop truth-seeking AI (Bayesian & exploring truth), and to solve "positive feedback loop" problems in tech products: LLM sycophancy, confirmation bias in reasoning models, social media echo chamber, and polarization.
 
 I am serving as a mentor at the Supervised Program for Alignment Research and the Algoverse AI Safety Fellowship. Research our [research updates](https://tinyurl.com/prevailai) and [idea portal](https://docs.google.com/document/d/17HGZ8M8QY5Lvna3Cxp83U6uXNMbnWRJWA1t3dE6yoco/edit?tab=t.0) if you would like to work with me!
 
-I am graduating in this year and I will be seeking research & PhD positions! 
+I am graduating in this year and I will be seeking research & PhD positions!
 
 ## Research
 
