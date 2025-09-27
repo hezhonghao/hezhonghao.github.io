@@ -40,6 +40,11 @@ Ultimately, I want to build AIs for human excellence (or "arete", in Greek conce
 
 A lot of effort is required to operationalize those concepts, but currently I am actively exploring the following topics: mechanistic interpretability, computational neuroscience, AI ethics, alignment, political philosophy, virtue ethics, multi-agent systems, AI for science, and human-computer interface, and collective intelligence.
 
+## Gratitude
+
+I am forever grateful to the mentorship of [Max Kleiman Weiner]([Max Kleiman-Weiner](https://faculty.washington.edu/maxkw/)
+), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/),[Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
+
 ## Contacts
 
 You may simply book a quick call via [Calendly](https://calendly.com/hezhonghao) <!---You may drop me an email at hezhonghao2030@gmail.com--->
