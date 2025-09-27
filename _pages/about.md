@@ -31,8 +31,8 @@ You may read my published work on [Google Scholar](https://scholar.google.com/ci
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
-- Will humanity experience an LLM-induced value lock-in because of the mutual learning feedback loops between humans and LLMs? (Accpted by ICML; [Read The Lock-in Hypothesis](https://thelockinhypothesis.com))
-- Can we train truth-seeking AI when agentic AI starts to mediate almost all our information intakes? (Accepted by NeurIPS; [Read a manuscript here](https://tinyurl.com/martingalescore))
+- Will humanity experience an LLM-induced value lock-in because of the mutual learning feedback loops between humans and LLMs? (ICML 2025; Read [The Lock-in Hypothesis](https://thelockinhypothesis.com))
+- Can we train truth-seeking AI when agentic AI starts to mediate almost all our information intakes? (NeurIPS 2025; Read [Martingale Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore))
 
 I strive to become a "full stack researcher," which, in my definition, is to have technical sophistication (experiments, mathematical formulation, and engineering) and deep engagements with problems (technical and societal ones). Building technologies for human betterment is hard, and let's get this one right.
 
@@ -43,7 +43,7 @@ A lot of effort is required to operationalize those concepts, but currently I am
 ## Gratitude
 
 I am forever grateful to the mentorship of [Max Kleiman Weiner]([Max Kleiman-Weiner](https://faculty.washington.edu/maxkw/)
-), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/),[Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
+), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/), [Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
 
 ## Contacts
 
