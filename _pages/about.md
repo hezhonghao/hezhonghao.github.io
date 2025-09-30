@@ -21,7 +21,7 @@ Hi! I am Zhonghao (何忠豪), a master's student at the University of Cambridge
 
 My previous work got accepted by NeurIPS, ICML, ACM FAccT, and ICLR (workshop), etc. My major interests are to design machines that help humans learn, think, and deliberate. Currently I work on two things, to develop truth-seeking AI (Bayesian & truth-seeking in open-ended domains), and to solve "positive feedback loop" problems in tech products (LLM sycophancy, social media echo chamber, and polarization).
 
-I am serving as a mentor at the Supervised Program for Alignment Research and the Algoverse AI Safety Fellowship. Read our [research updates](https://tinyurl.com/prevailai) and [idea portal](https://docs.google.com/document/d/17HGZ8M8QY5Lvna3Cxp83U6uXNMbnWRJWA1t3dE6yoco/edit?tab=t.0) if you would like to informally work with me!
+I am serving as a mentor at the Supervised Program for Alignment Research and the Algoverse AI Safety Fellowship. Read our [research updates](https://tinyurl.com/prevailai) and [idea portal](https://docs.google.com/document/d/17HGZ8M8QY5Lvna3Cxp83U6uXNMbnWRJWA1t3dE6yoco/edit?tab=t.0) if you would like to informally work with me.
 
 I am graduating in this year and I will be seeking research & PhD positions!
 
