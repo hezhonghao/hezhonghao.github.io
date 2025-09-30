@@ -24,8 +24,7 @@ A lot of effort is required to operationalize those concepts, but currently I am
 
 ## Gratitude
 
-I am forever grateful to the mentorship of [Max Kleiman Weiner]([Max Kleiman-Weiner](https://faculty.washington.edu/maxkw/)
-), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/), Henry Shevlin, [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
+I am forever grateful to the mentorship of [Max Kleiman Weiner](https://faculty.washington.edu/maxkw/), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/), [Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
 
 ## Contacts
 
