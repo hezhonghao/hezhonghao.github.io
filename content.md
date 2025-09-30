@@ -1,5 +1,13 @@
 
-Hi! I am Zhonghao, currently a master's student at the University of Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
+<div class="center-header">
+
+# Zhonghao He (何忠豪)
+
+[CV](CV.pdf) • [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ) • [Calendly](https://calendly.com/hezhonghao)
+
+</div>
+
+Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
 
 [Email](hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
@@ -9,7 +17,7 @@ I am serving as a mentor at the Supervised Program for Alignment Research and th
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are about building AI for the collaborative truth-seeking and moral progress, specifically:
 
-- **Truth-seeking AI***: Can we enforce Bayesian for arbitrary technical systems, be it single LLM reasoning, multi-agent systems, or human-AI systems? Can we construct truth proxy in open-ended domains (science & value-laden) where ground truth is non-existed? 
+- **Truth-seeking AI**: Can we enforce Bayesian for arbitrary technical systems, be it single LLM reasoning, multi-agent systems, or human-AI systems? Can we construct truth proxy in open-ended domains (science & value-laden) where ground truth is non-existed? 
 
 - **Human-AI Collaboration**: Can truth-seeking AI assistant help to reduce confirmation bias of humans? Can we evaluate LLM based on how much they help with humans' truth-seeking tasks? When information is ever accessible, how do we simutaneously build up individual and societal capacity for information processing and decision making?
 
@@ -20,11 +28,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 # Selected Works 
 
-
-- Will humanity experience an LLM-induced value lock-in because of the mutual learning feedback loops between humans and LLMs? (ICML 2025; Read [The Lock-in Hypothesis](https://thelockinhypothesis.com))
-- Can we train truth-seeking AI when agentic AI starts to mediate almost all our information intakes? (NeurIPS 2025; Read [Martingale Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore))
-
-> Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property (NeurIPS'25)
+> [Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property](https://tinyurl.com/martingalescore) (NeurIPS'25)
 > **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
 > (*Equal contribution)
 
@@ -34,7 +38,7 @@ The key property we rely on: under rational belief updating, the expected value 
 
 We think belief entrenchment is the major reason why LLMs are causing delusions and even psychosis in users today, and, if the root cause remains unaddressed, it may cause more serious epistemic harm at an even larger scale. Based on this work, we aim to extend the same metric to human-AI interaction, and to use it as a training remedy to belief entrenchment.
 
->The Lock-in Hypothesis: Stagnation by Algorithm (ICML'25)
+>[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)
 >Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
 >(*Equal contribution)
 
