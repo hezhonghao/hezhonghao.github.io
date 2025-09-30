@@ -21,12 +21,13 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 - **Modeling of AI Influence & Moral Progress**: When advancing AI with narrowly defined capability metrics and excessive human approval, what would be downstream impact? When the feedback loops between humans and AI are established and mutually reinforcing, should we worry about the permenant lock-in of false beliefs? Automation and material abundance are indeed desiderata, but what do we count as real progress?
 
-[Here are most updated technical details of our ongoing research](https://tinyurl.com/prevailai)
+[Here are most updated technical details of our ongoing research.](https://tinyurl.com/prevailai)
 
 
 # **Selected Works**
 
 > [Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property](https://tinyurl.com/martingalescore) (NeurIPS'25)
+
 > **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
 > (*Equal contribution)
 
@@ -39,6 +40,7 @@ Martingale property: under rational belief updating, the expected value of futur
 The first paper in this line of work was accepted by NeurIPS 2025. Now we extend the same metric to human-AI interaction, multi-agent systems, and to use it as a training remedy to belief entrenchment in LLMs and confirmation bias in humans. Specific technical details can be seen [here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.5f1zeybxos72#heading=h.ph9x87vdlmn3).
 
 >[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)
+
 >Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
 >(*Equal contribution)
 
