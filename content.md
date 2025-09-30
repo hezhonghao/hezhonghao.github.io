@@ -5,7 +5,7 @@
 
 </div>
 
-Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
+Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted by ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
 
 [Email](mailto:hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
@@ -42,7 +42,7 @@ The first paper in this line of work was accepted by NeurIPS 2025. Now we extend
 >Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)  
 >(*Equal contribution)
 
-When AI mediates most of our information intake and learning while being anything but a truth-seeker, what would be the lont-term consequences. 
+When AI mediates most of our information intake and learning while being anything but a truth-seeker, what would be the lont-term consequences?
 
 Introducing the lock-in hypothesis: The feedback loop in humanAI interaction will eventually lead a population to converge on false beliefs. Such beliefs, once formed, are hard to change with opposing evidence, as feedback loops indiscriminately amplify confidence in existing individual and collective beliefs and humans develop trust in AI.
 
@@ -60,4 +60,4 @@ A lot of effort is required to operationalize those concepts, but currently I am
 
 # **Contacts**
 
-I overall have a ["open-door" policy](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html#:~:text=Another%20trait%2C%20it,they%20miss%20fame.), meaning that I am in general very open for people to book a slot on my calendar on Monday/Friday to discuss research/startups/education. [Calendly](https://calendly.com/hezhonghao). Besides, I am happy to give advice to people with disadvantaged backgrounds, especially if you are deciding to make a move from a non-technical background to a technical route, or your educational opportunities are systematically deprived. 
+I overall have a ["open-door" policy](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html#:~:text=Another%20trait%2C%20it,they%20miss%20fame.), meaning that I am in general very open for people to book a slot on my calendar on Monday/Friday to discuss research/startups/education. [Book a call at Calendly](https://calendly.com/hezhonghao). Besides, I am happy to give advice to people with disadvantaged backgrounds, especially if you are deciding to make a move from a non-technical background to a technical route, or your educational opportunities are systematically deprived. 
