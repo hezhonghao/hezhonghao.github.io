@@ -5,11 +5,11 @@ My previous work got accepted by NeurIPS, ICML, ACM FAccT, and ICLR (workshop), 
 
 I am serving as a mentor at the Supervised Program for Alignment Research and the Algoverse AI Safety Fellowship. Read our [research updates](https://tinyurl.com/prevailai) and [idea portal](https://docs.google.com/document/d/17HGZ8M8QY5Lvna3Cxp83U6uXNMbnWRJWA1t3dE6yoco/edit?tab=t.0) if you would like to informally work with me.
 
-I am graduating in this year and I will be seeking research & PhD positions!
+I am graduating in this year and I will be seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
 
 ## Research
 
-You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao). My ongoing and past projects are more updated in the CV page on this site.
+You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao).
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
