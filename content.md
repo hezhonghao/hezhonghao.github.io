@@ -3,8 +3,6 @@
 
 # Zhonghao He (何忠豪)
 
-[CV](CV.pdf) • [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ) • [Calendly](https://calendly.com/hezhonghao)
-
 </div>
 
 Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
@@ -23,10 +21,10 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 - **Modeling of AI Influence & Moral Progress**: When advancing AI with narrowly defined capability metrics and excessive human approval, what would be downstream impact? When the feedback loops between humans and AI are established and mutually reinforcing, should we worry about the permenant lock-in of false beliefs? Automation and material abundance are indeed desiderata, but what do we count as real progress?
 
-[Technical details of Ongoing Research](https://tinyurl.com/prevailai)
+[Here are most updated technical details of our ongoing research](https://tinyurl.com/prevailai)
 
 
-# Selected Works 
+# **Selected Works**
 
 > [Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property](https://tinyurl.com/martingalescore) (NeurIPS'25)
 > **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
@@ -47,6 +45,25 @@ Risk (pre-mature value lock-in): Frontier AI systems hold increasing influence o
 Solution (progress alignment): We introduce progress alignment as a technical solution to mitigate this imminent risk. Progress alignment algorithms learn to emulate the mechanics of human moral progress, thereby addressing the susceptibility of existing alignment methods to contemporary moral blindspots. 
 
 Infrastructure (ProgressGym): To empower research in progress alignment, we introduce ProgressGym, an experimental framework allowing the learning of moral progress mechanics from history, in order to facilitate future progress in real-world moral decisions. Leveraging 9 centuries of historical text and 18 historical LLMs, ProgressGym enables codification of real-world progress alignment challenges into concrete benchmarks. (Hugging Face, GitHub, Leaderboard)
+
+# ** Trajectory 
+- Jan 2017 Read Life3.0, realised something is coming up and it takes this generation of people to make right decisions for AI to get right. 
+
+- Aug 2019 Was confused about PhD VS startup, reached out John L. Hennessy, was told "Unless you have world-changing technology, do a PhD", started a company anyway, with non-world-changing technology.
+
+- Jul 2021 Became a researcher when selected as a research fellow to Stanford Existential Risks Initiative (SERI).
+
+- Mar 2022 Became first COO of Charity Box, now a leading effective donation advocacy institute.
+
+- May 2022 Incubated the first batch of AI safety researchers in China, teaming up with SERI.
+
+- Oct 2022 Started a master degree at Cambridge University.
+
+- Feb 2023 First publication in life.
+
+- (meanwhile, a lot of rejections ...)
+
+- Mar 2025 First first-authored technical publication, made to ICML.
 
 # **Gratitude**
 
