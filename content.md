@@ -25,7 +25,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 - Can we train truth-seeking AI when agentic AI starts to mediate almost all our information intakes? (NeurIPS 2025; Read [Martingale Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore))
 
 > Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property (NeurIPS'25)
-> **Zhonghao He\***, Tianyi Qiu*, Hirokazu Shirado, Maarten Sap (2025)
+> **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
 > (*Equal contribution)
 
 We introduce the Martingale Score, an unsupervised metric based on Bayesian statistics, to show that reasoning in LLMs often leads to belief entrenchment rather than truth-seeking, and shows this score predicts ground-truth accuracy. 
@@ -35,7 +35,7 @@ The key property we rely on: under rational belief updating, the expected value 
 We think belief entrenchment is the major reason why LLMs are causing delusions and even psychosis in users today, and, if the root cause remains unaddressed, it may cause more serious epistemic harm at an even larger scale. Based on this work, we aim to extend the same metric to human-AI interaction, and to use it as a training remedy to belief entrenchment.
 
 >The Lock-in Hypothesis: Stagnation by Algorithm (ICML'25)
->Tianyi Qiu*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
+>Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
 >(*Equal contribution)
 
 Risk (pre-mature value lock-in): Frontier AI systems hold increasing influence over the epistemology of human users. Such influence can reinforce prevailing societal values, potentially contributing to the lock-in of misguided moral beliefs and, consequently, the perpetuation of problematic moral practices on a broad scale. 
