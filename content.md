@@ -7,7 +7,7 @@
 
 Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted ICML 2025 and NeurIPS 2025. I am seeking research & PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
 
-[Email](mailto: hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
+[Email](mailto:hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
 I am serving as a mentor at the Supervised Program for Alignment Research and the Algoverse AI Safety Fellowship. If you'd like to informally work with me, you may check out our [idea portal](https://docs.google.com/document/d/17HGZ8M8QY5Lvna3Cxp83U6uXNMbnWRJWA1t3dE6yoco/edit?tab=t.0).
 
@@ -26,8 +26,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 # **Selected Works**
 
-> [Stay True to the Evidence: Measuring Belief Entrenchment in Reasoning LLMs via the Martingale Property](https://tinyurl.com/martingalescore) (NeurIPS'25)
-
+> [Measuring Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore) (NeurIPS'25)
 > **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
 > (*Equal contribution)
 
@@ -40,7 +39,6 @@ Martingale property: under rational belief updating, the expected value of futur
 The first paper in this line of work was accepted by NeurIPS 2025. Now we extend the same metric to human-AI interaction, multi-agent systems, and to use it as a training remedy to belief entrenchment in LLMs and confirmation bias in humans. Specific technical details can be seen [here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.5f1zeybxos72#heading=h.ph9x87vdlmn3).
 
 >[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)
-
 >Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
 >(*Equal contribution)
 
