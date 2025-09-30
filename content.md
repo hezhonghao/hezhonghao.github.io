@@ -26,8 +26,8 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 # **Selected Works**
 
-> [Measuring Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore) (NeurIPS'25)
-> **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)
+> [Measuring Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore) (NeurIPS'25)  
+> **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)  
 > (*Equal contribution)
 
 If Bayesian reasoning is ideal, can we develop unsupervised methods that provides helpful training signals?
@@ -38,8 +38,8 @@ Martingale property: under rational belief updating, the expected value of futur
 
 The first paper in this line of work was accepted by NeurIPS 2025. Now we extend the same metric to human-AI interaction, multi-agent systems, and to use it as a training remedy to belief entrenchment in LLMs and confirmation bias in humans. Specific technical details can be seen [here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.5f1zeybxos72#heading=h.ph9x87vdlmn3).
 
->[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)
->Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)
+>[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)  
+>Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)  
 >(*Equal contribution)
 
 When AI mediates most of our information intake and learning while being anything but a truth-seeker, what would be the lont-term consequences. 
