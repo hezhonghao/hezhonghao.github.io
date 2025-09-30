@@ -27,7 +27,7 @@ I am graduating in this year and I will be seeking research & PhD positions!
 
 ## Research
 
-You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao). My ongoing and past projects are more updated in the [CV](https://hezhonghao.github.io/assets/pdf/Zhonghao_CV_Technical_2025.pdf) page on this site.
+You may read my published work on [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao). My ongoing and past projects are more updated in the CV page on this site.
 
 My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)" (the most important problems I can work on) are:
 
