@@ -1,5 +1,5 @@
 
-Hi! I am Zhonghao (何忠豪), a master's student at the University of Cambridge and an incoming intern at FLAIR, Oxford. My research focuses on truth-seeking AI and moral progress.
+Hi! I am Zhonghao (何忠豪), currently a master's student at the University of Cambridge, and an incoming research intern at FLAIR, Oxford. My research focuses on truth-seeking AI and moral progress.
 
 My previous work got accepted by NeurIPS, ICML, ACM FAccT, and ICLR (workshop), etc. My major interests are to design machines that help humans learn, think, and deliberate. Currently I work on two things, to develop truth-seeking AI (Bayesian & truth-seeking in open-ended domains), and to solve "positive feedback loop" problems in tech products (LLM sycophancy, social media echo chamber, and polarization).
 
