@@ -26,7 +26,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 # **Selected Works**
 
-> [Measuring Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore) (NeurIPS'25)  
+> [Martingale Score: An Unsupervised Metric for LLM Bayesian Reasoning](https://tinyurl.com/martingalescore) (NeurIPS'25)  
 > **Zhonghao He\***, Tianyi Qiu\*, Hirokazu Shirado, Maarten Sap (2025)  
 > (*Equal contribution)
 
