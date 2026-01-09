@@ -5,7 +5,7 @@
 
 </div>
 
-Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted by ICML 2025 and NeurIPS 2025. I am seeking PhD positions! My [CV](Zhonghao_CV_2025.pdf) here.
+Hi! I am Zhonghao, currently a master's student at Cambridge and an incoming research intern at [FLAIR](https://foersterlab.com/), Oxford. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted by ICML 2025 and NeurIPS 2025. I am seeking PhD positions! My [CV](Zhonghao_CV_2026.pdf) here.
 
 [Email](mailto:hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
