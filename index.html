@@ -99,7 +99,9 @@
       });
 
       // ---- Left column: photo placeholder, About, Contacts ----
-      left.appendChild(ph('Photo', 'A portrait / photo goes here', 'ph-photo'));
+      const portrait = document.createElement('img');
+      portrait.src = 'zhonghao.jpg'; portrait.alt = 'Zhonghao He'; portrait.className = 'portrait';
+      left.appendChild(portrait);
       const aboutH = document.createElement('h1'); aboutH.textContent = 'About';
       left.appendChild(aboutH);
       aboutNodes.forEach(n => left.appendChild(n));

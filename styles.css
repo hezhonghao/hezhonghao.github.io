@@ -137,3 +137,5 @@ hr { border: none; border-top: 1px solid var(--rule); margin: 2.4em 0; }
 .has-train{display:inline;line-height:inherit}
 .trainZ{height:.72em;width:auto;vertical-align:baseline;margin-right:.02em;color:var(--ink)}
 @media(max-width:720px){.trainZ{height:.68em}}
+
+.portrait { width: 100%; border-radius: 12px; display: block; margin-bottom: 1rem; object-fit: cover; }
