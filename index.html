@@ -1,118 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zhonghao He</title>
-    <style>
-        body {
-            font-family: Helvetica Neue, sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: 60px auto;
-            padding: 0 20px;
-            color: #333;
-            background-color: #fff2cc;  
-        }
-
-        h1 {
-            font-size: 1.8em;
-            margin-bottom: 0.3em;
-            font-weight: normal;
-        }
-        
-        h2 {
-            font-size: 1.3em;
-            margin-top: 2em;
-            margin-bottom: 0.5em;
-            font-weight: bold;
-            color: #2c3e50;
-        }
-        
-        h3 {
-            font-size: 1.1em;
-            margin-top: 1.5em;
-            margin-bottom: 0.5em;
-            font-weight: bold;
-            color: #34495e;
-        }        
-        
-        a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-        
-        a:hover {
-            text-decoration: underline;
-        }
-        
-        p {
-            margin: 1em 0;
-        }
-        
-        ul {
-            margin: 1em 0;
-            padding-left: 2em;
-        }
-        
-        li {
-            margin: 0.5em 0;
-        }
-        
-        strong {
-            font-weight: 600;
-        }
-        
-        em {
-            font-style: italic;
-        }
-
-        #content {
-            min-height: 400px;
-        }
-        .center-header {
-        text-align: center;
-        margin-bottom: 2em;
-        }
-
-        .center-header h1 {
-        margin-bottom: 0.2em;
-        }
-
-        .center-header p {
-        margin: 0.5em 0;
-        }
-
-        /* Paper/project styling */
-        blockquote {
-            border-left: 3px solid #e0e0e0;
-            margin-left: 0;
-            padding-left: 20px;
-            color: #555;
-        }
-        
-        /* Make italic text (for venues/years) slightly muted */
-        em {
-            font-style: italic;
-            color: #666;
-        }
-    </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zhonghao He</title>
+  <meta name="description" content="Zhonghao He — building AI for collaborative truth-seeking and moral progress.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 </head>
 <body>
-    <div id="content">Loading...</div>
-    
-    <script>
-        // Fetch and render the markdown content
-        fetch('content.md')
-            .then(response => response.text())
-            .then(text => {
-                document.getElementById('content').innerHTML = marked.parse(text);
-            })
-            .catch(error => {
-                console.error('Error loading content:', error);
-                document.getElementById('content').innerHTML = '<p>Error loading content. Please make sure content.md exists.</p>';
-            });
-    </script>
+  <div id="content">Loading…</div>
+
+  <script>
+    const TAGLINE = "Building AI for collaborative truth-seeking and moral progress.";
+    const TRAIN_Z = `<svg class="trainZ" viewBox="0 0 150 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Z">
+      <line x1="2"  y1="30" x2="22" y2="30" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" opacity=".30"/>
+      <line x1="0"  y1="44" x2="16" y2="44" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" opacity=".20"/>
+      <path d="M22 26 H114" stroke="currentColor" stroke-width="13" stroke-linecap="round"/>
+      <path d="M108 19 L150 33 L108 41 Z" fill="currentColor"/>
+      <line x1="34" y1="26" x2="102" y2="26" stroke="var(--link)" stroke-width="3.4" stroke-linecap="round"/>
+      <path d="M104 33 L34 71" stroke="currentColor" stroke-width="13" stroke-linecap="round"/>
+      <path d="M20 78 H112" stroke="currentColor" stroke-width="13" stroke-linecap="round"/>
+      <circle cx="46" cy="88" r="4.5" fill="currentColor"/>
+      <circle cx="88" cy="88" r="4.5" fill="currentColor"/>
+    </svg>`;
+
+    fetch('content.md')
+      .then(r => r.text())
+      .then(md => build(md))
+      .catch(err => {
+        console.error('Error loading content:', err);
+        document.getElementById('content').innerHTML =
+          '<p>Error loading content. Please make sure content.md exists.</p>';
+      });
+
+    const norm = t => (t || '').toLowerCase().replace(/[*\s]+/g, ' ').trim();
+    function div(cls){ const d = document.createElement('div'); if(cls) d.className = cls; return d; }
+    function ph(label, hint, cls){
+      const d = div('ph ' + (cls || ''));
+      d.innerHTML = '<div class="ph-label">'+label+'</div><div class="ph-hint">'+hint+'</div>';
+      return d;
+    }
+
+    function build(md){
+      const tmp = div();
+      tmp.innerHTML = marked.parse(md);
+
+      const nameBlock = tmp.querySelector('.center-header');
+
+      // Segment top-level nodes into sections keyed by H1; pre-H1 = 'intro'.
+      const sections = [];
+      let cur = { key: 'intro', nodes: [] };
+      sections.push(cur);
+      Array.from(tmp.children).forEach(node => {
+        if (nameBlock && (node === nameBlock || nameBlock.contains(node))) return;
+        if (node.tagName === 'H1') {
+          cur = { key: norm(node.textContent), nodes: [node] };
+          sections.push(cur);
+        } else {
+          cur.nodes.push(node);
+        }
+      });
+      const sect = k => sections.find(s => s.key === k);
+
+      // ---- Scaffold ----
+      const root = document.getElementById('content');
+      root.innerHTML = '';
+      const site = div('site');
+      const mast = div('masthead');
+      if (nameBlock) mast.appendChild(nameBlock);
+      const nameH1 = mast.querySelector('.center-header h1') || mast.querySelector('h1');
+      // train-Z disabled — ZH asked to resume the original plain "Z" in the title
+      // if (nameH1 && /^\s*Z/.test(nameH1.textContent)) {
+      //   const rest = nameH1.textContent.replace(/^\s*Z/, '');
+      //   nameH1.innerHTML = TRAIN_Z + '<span class="zrest">' + rest + '</span>';
+      //   nameH1.classList.add('has-train');
+      // }
+      const tag = document.createElement('p');
+      tag.className = 'tagline'; tag.textContent = TAGLINE;
+      mast.appendChild(tag);
+
+      const cols = div('cols');
+      const left = div('col col-left'), mid = div('col col-center'), right = div('col col-right');
+      cols.append(left, mid, right);
+      site.append(mast, cols);
+      root.appendChild(site);
+
+      // ---- Intro: split contact row (-> masthead) from About text (-> left) ----
+      const intro = sect('intro');
+      const aboutNodes = [];
+      (intro ? intro.nodes : []).forEach(n => {
+        if (n.querySelector && n.querySelector('a[href^="mailto:"]')) {
+          n.classList.add('contact-row'); mast.appendChild(n);
+        } else { aboutNodes.push(n); }
+      });
+
+      // ---- Left column: photo placeholder, About, Contacts ----
+      left.appendChild(ph('Photo', 'A portrait / photo goes here', 'ph-photo'));
+      const aboutH = document.createElement('h1'); aboutH.textContent = 'About';
+      left.appendChild(aboutH);
+      aboutNodes.forEach(n => left.appendChild(n));
+      placeSection('contacts', left);
+
+      // ---- Center column: Research, Selected Works ----
+      placeSection('research', mid);
+      placeSection('selected works', mid);
+
+      // ---- Right column: news placeholder, Favourites, Gratitude ----
+      right.appendChild(ph('News &amp; Updates', 'Recent talks, papers, milestones — drop items here'));
+      placeSection('favourites', right);
+      placeSection('gratitude', right);
+
+      function placeSection(key, col){
+        const s = sect(key);
+        if (s) s.nodes.forEach(n => col.appendChild(n));
+      }
+
+      // ---- Selected Works -> cards (within center column) ----
+      enhanceWorks(mid);
+    }
+
+    // Group each blockquote + its following paragraphs (until next blockquote/H1/H2)
+    // into a .work-card.
+    function enhanceWorks(root){
+      const STOP = /^(BLOCKQUOTE|H1|H2)$/;
+      Array.from(root.children).forEach(node => {
+        if (node.tagName !== 'BLOCKQUOTE' || node.parentNode !== root) return;
+        const card = div('work-card');
+        root.insertBefore(card, node);
+        let c = node;
+        do { const next = c.nextElementSibling; card.appendChild(c); c = next; }
+        while (c && !STOP.test(c.tagName));
+      });
+    }
+  </script>
 </body>
 </html>

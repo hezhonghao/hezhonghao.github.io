@@ -5,7 +5,7 @@
 
 </div>
 
-Hi! I am Zhonghao, an upcoming Cosmos Fellow to [HAI Lab](https://hailab.ox.ac.uk/) and an intern at [FLAIR](https://foersterlab.com/), Oxford University, working with Professor Philipp Koralus and Professor Jakob Foerster. I acquired my master degree from University of Cambridge. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted by ICML 2025 and NeurIPS 2025.You may read my research proposal [here](Zhonghao_Research_Proposal.pdf). I am seeking PhD positions! My [CV](Zhonghao_CV_2026.pdf) here.
+Hi! I am Zhonghao, a current Cosmos Fellow to [HAI Lab](https://hailab.ox.ac.uk/) and an intern at [FLAIR](https://foersterlab.com/), Oxford University, working with Professor Philipp Koralus and Professor Jakob Foerster. I acquired my master degree from University of Cambridge. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic are accepted by ICML 2025 and NeurIPS 2025.You may read my research proposal [here](Zhonghao_Research_Proposal.pdf). I am seeking PhD positions! My [CV](Zhonghao_CV_2026.pdf) here.
 
 [Email](mailto:hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
@@ -47,6 +47,13 @@ When AI mediates most of our information intake and learning while being anythin
 Introducing the lock-in hypothesis: The feedback loop in humanAI interaction will eventually lead a population to converge on false beliefs. Such beliefs, once formed, are hard to change with opposing evidence, as feedback loops indiscriminately amplify confidence in existing individual and collective beliefs and humans develop trust in AI.
 
 We use formal methods, simulations, and hypothesis-testing to study the value lock-in problem, in a hope to connect human-AI interaction mechanisms to long-standing epistemic and morality problems facing our time.
+
+# **Favourites**
+
+*A handful of essays, books, and ideas I keep returning to. (Placeholder — to be filled in.)*
+
+> [Replace with a favourite essay or book](#)
+> One line on why it stuck with you.
 
 # **Gratitude**
 
