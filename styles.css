@@ -58,7 +58,7 @@ h1, h2, h3 {
 /* ---------- 3-column grid ---------- */
 .cols {
   display: grid;
-  grid-template-columns: 1fr 1.45fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 48px;
   align-items: start;
 }

@@ -107,13 +107,11 @@
       aboutNodes.forEach(n => left.appendChild(n));
       placeSection('contacts', left);
 
-      // ---- Center column: Research, Selected Works ----
-      placeSection('research', mid);
+      // ---- Center column: Selected Works (research moved to right to balance) ----
       placeSection('selected works', mid);
 
-      // ---- Right column: news placeholder, Favourites, Gratitude ----
-      right.appendChild(ph('News &amp; Updates', 'Recent talks, papers, milestones — drop items here'));
-      placeSection('favourites', right);
+      // ---- Right column: Research, Gratitude (News & Favourites removed per ZH, temporary) ----
+      placeSection('research', right);
       placeSection('gratitude', right);
 
       function placeSection(key, col){
