@@ -19,7 +19,7 @@ My current "[Hamming Problems](https://www.cs.virginia.edu/~robins/YouAndYourRes
 
 - **Human-AI Collaboration**: Can a truth-seeking AI assistant help to reduce confirmation bias in humans? Can we evaluate LLMs based on how much they help with humans' truth-seeking tasks? When information is ever accessible, how do we simultaneously build up individual and societal capacity for information processing and decision-making?
 
-- ** Modelling of AI Influence & Moral Progress**: When advancing AI with narrowly defined capability metrics and excessive human approval, what would be the downstream impact? When the feedback loops between humans and AI are established and mutually reinforcing, should we worry about the permanent lock-in of false beliefs? Automation and material abundance are indeed desiderata, but what do we count as real progress?
+- **Modelling of AI Influence & Moral Progress**: When advancing AI with narrowly defined capability metrics and excessive human approval, what would be the downstream impact? When the feedback loops between humans and AI are established and mutually reinforcing, should we worry about the permanent lock-in of false beliefs? Automation and material abundance are indeed desiderata, but what do we count as real progress?
 
 [Here are the most up-to-date technical details of our ongoing research.](https://tinyurl.com/prevailai)
 
@@ -36,7 +36,7 @@ We introduce the Martingale Score, an unsupervised metric based on Bayesian stat
 
 Martingale property: under rational belief updating, the expected value of future beliefs should remain equal to the current belief, i.e., belief updates are unpredictable from the current belief ([see theoretical underpinning](https://arxiv.org/abs/2109.07007)).
 
-The first paper in this line of work was accepted by NeurIPS 2025. Now we extend the same metric to human-AI interaction, multi-agent systems, and use it as a training remedy to belief entrenchment in LLMs and confirmation bias in humans. Specific technical details can be seen [here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.5f1zeybxos72#heading=h.ph9x87vdlmn3).
+The first paper in this line of work was accepted by NeurIPS 2025. Now we extend the same metric to human-AI interaction and multi-agent systems and use it as a training remedy for belief entrenchment in LLMs and confirmation bias in humans. Specific technical details can be seen [here](https://docs.google.com/document/d/1rHhOVqLlEMwZYJ7p520P9Qctjj52LlU0y6tza32xENo/edit?tab=t.5f1zeybxos72#heading=h.ph9x87vdlmn3).
 
 >[The Lock-in Hypothesis: Stagnation by Algorithm](https://thelockinhypothesis.com) (ICML'25)  
 >Tianyi Qiu\*, **Zhonghao He\***, Tejasveer Chugh, Max Kleiman-Weiner (2025)  
