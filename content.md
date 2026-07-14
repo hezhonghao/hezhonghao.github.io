@@ -5,7 +5,7 @@
 
 </div>
 
-Hi! I am Zhonghao, a current Cosmos Fellow at [HAI Lab](https://hailab.ox.ac.uk/) and an intern at [FLAIR](https://foersterlab.com/), Oxford University, working with Professor Philipp Koralus and Professor Jakob Foerster. I acquired my master's degree from the University of Cambridge. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic have been accepted by ICML 2025 and NeurIPS 2025. You may read my research proposal [here](Zhonghao_Research_Proposal.pdf). I will start a PhD in CS at Johns Hopkins this coming fall! My [CV](Zhonghao_CV_2026.pdf) is here.
+Hi! I am Zhonghao, a current Cosmos Fellow at [HAI Lab](https://hailab.ox.ac.uk/) and an intern at [FLAIR](https://foersterlab.com/), Oxford University, working with Professor Philipp Koralus and Professor Jakob Foerster. I acquired my master's degree from the University of Cambridge. I build AI for collaborative truth-seeking and moral progress. Two of the works I co-led on this topic have been accepted by ICML 2025 and NeurIPS 2025. You may read my research proposal [here](Zhonghao_Research_Proposal.pdf). I will start a PhD in CS at Johns Hopkins this coming fall!
 
 [Email](mailto:hezhonghao2030@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=PuUcZTYAAAAJ&hl=en&oi=ao) / [Github](https://github.com/hezhonghao) / [Twitter](https://x.com/zhonghaohe)
 
