@@ -57,7 +57,7 @@ We use formal methods, simulations, and hypothesis-testing to study the value lo
 
 # **Gratitude**
 
-I am forever grateful to the mentorship of [Max Kleiman Weiner](https://faculty.washington.edu/maxkw/), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/), [Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/). They have played significant roles in supporting my academic career.
+I am forever grateful to the mentorship of [Max Kleiman Weiner](https://faculty.washington.edu/maxkw/), [Maarten Sap](https://maartensap.com/), [Hirokazu Shirado](https://www.shirado.net/), [Henry Shevlin](https://henryshevlin.com/), [Grace W. Lindsay](https://gracewlindsay.com/), [Anna Ivanova](https://anna-ivanova.net/), [Jakob Foerster](https://www.jakobfoerster.com/). They have played significant roles in supporting my academic career.
 
 I strive to become a "full stack researcher," which, in my definition, is to have technical sophistication (experiments, mathematical formulation, and engineering) and deep engagement with problems (technical and societal ones). Building technologies for human betterment is hard, and let's get this one right.
 
